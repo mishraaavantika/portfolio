@@ -13,8 +13,8 @@ SQL | Python (Pandas, NumPy) | Power BI | Excel | Data Cleaning | Data Visualiza
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/avantika-mishra98/)  
-- [GitHub]()  
+- [GitHub](https://github.com/mishraaavantika)  
 
 ---
 
-✅ This website is live at: [https://yourgithub.github.io/portfolio](https://yourgithub.github.io/portfolio)
+✅ This website is live at: [https://mishraaavantika.github.io/portfolio](https://mishraaavantika.github.io/portfolio)
