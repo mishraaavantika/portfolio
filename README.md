@@ -12,8 +12,8 @@ This repository contains my **Data Analytics portfolio website**, hosted on GitH
 SQL | Python (Pandas, NumPy) | Power BI | Excel | Data Cleaning | Data Visualization  
 
 ## 🔗 Links
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourgithub)  
+- [LinkedIn](https://www.linkedin.com/in/avantika-mishra98/)  
+- [GitHub]()  
 
 ---
 
